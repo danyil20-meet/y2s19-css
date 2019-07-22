@@ -1,1 +1,19 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.non {
+	color:red;
+}
+
+.veg {
+	color:green;
+}
+
+a {
+	color:gray;
+}
+
 
